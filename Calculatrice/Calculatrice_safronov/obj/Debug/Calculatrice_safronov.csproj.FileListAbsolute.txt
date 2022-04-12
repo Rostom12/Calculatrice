@@ -1,0 +1,10 @@
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\bin\Debug\Calculatrice_safronov.exe.config
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\bin\Debug\Calculatrice_safronov.exe
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\bin\Debug\Calculatrice_safronov.pdb
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\obj\Debug\Calculatrice_safronov.csproj.AssemblyReference.cache
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\obj\Debug\Calculatrice_safronov.WIN_CALC.resources
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\obj\Debug\Calculatrice_safronov.Properties.Resources.resources
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\obj\Debug\Calculatrice_safronov.csproj.GenerateResource.cache
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\obj\Debug\Calculatrice_safronov.csproj.CoreCompileInputs.cache
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\obj\Debug\Calculatrice_safronov.exe
+C:\Users\Ros_Tom9\OneDrive\Bureau\docs\Calculatrice-master\Calculatrice_safronov\obj\Debug\Calculatrice_safronov.pdb
